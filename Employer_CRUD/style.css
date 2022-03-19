@@ -1,0 +1,63 @@
+.FieldInfo{
+    color: orange;
+    font-family: Bitter, Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+}
+div{
+    width: 500px;
+    margin: auto;
+}
+input[type= "text"], textarea{
+    border: 1px solid dashed;
+    background-color: rgb(221, 216, 212);
+    width: 480px;
+    padding: .5em;
+    font-size: 1em;
+}
+input[type = "Submit"]{
+    color: white;
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 40px;
+    background-color: #5d0580;
+    border: 5px solid;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-color: rgb(221, 216, 212);
+    float: left;
+
+
+}
+.FieldInfoHeading{
+    color: orange;
+    font-family: Bitter, Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+}
+.success{
+    color: rgb(158, 27, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.btn{
+    color: white;
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 40px;
+    background-color: #5d0580;
+    border: 5px solid;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-color: rgb(221, 216, 212);
+    float: left;
+}
+.btn .txt{
+    color: white;
+    text-decoration: none;
+}
